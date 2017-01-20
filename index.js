@@ -191,4 +191,5 @@ module.exports = {
      */
 
      'import/extensions'          : [1, { "js": "never" }],
+  }
 };
