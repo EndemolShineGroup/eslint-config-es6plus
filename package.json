@@ -17,6 +17,7 @@
     "eslint": ">= 3"
   },
   "dependencies": {
+    "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-react": "^6.9.0"
   }
 }
