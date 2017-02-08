@@ -1,7 +1,5 @@
 module.exports = {
-  'parser' : 'babel-eslint',
-
-  'extends' : ['eslint:recommended', 'plugin:react/recommended'],
+  'extends' : ['eslint:recommended', 'plugin:react/recommended', 'eslint-config-es6plus'],
 
   'parserOptions' : {
     'ecmaFeatures' : {
