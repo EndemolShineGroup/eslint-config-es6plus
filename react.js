@@ -43,6 +43,7 @@ module.exports = {
     'react/jsx-sort-props'               : [1, {
       "callbacksLast": true,
       "shorthandFirst": true,
+      "noSortAlphabetically": true,
     }],
     'react/jsx-wrap-multilines'          : 2,
     'react/no-multi-comp'                : 1,
