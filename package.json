@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-es6plus",
   "description": "Linting rules for Endemol Shine Tech projects",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "license": "MIT",
   "main": "index.js",
   "repository": "https://github.com/EndemolShineGroup/eslint-config-es6plus",
