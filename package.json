@@ -14,8 +14,8 @@
     "Hassan Khan <hassan.khan@endemolshine.com>"
   ],
   "peerDependencies": {
-    "babel-eslint": ">= 7",
-    "eslint": ">= 3"
+    "babel-eslint": "^7.0",
+    "eslint": "^3.0"
   },
   "dependencies": {
     "eslint-plugin-import": "^2.2.0",
