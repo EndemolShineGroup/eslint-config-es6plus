@@ -94,6 +94,7 @@ module.exports = {
       'allowKeywords' : true,
     }],
     'eqeqeq'              : 2,                                                   // http://eslint.org/docs/rules/eqeqeq
+    'indent'              : [1, 2],                                              // http://eslint.org/docs/rules/indent
     'guard-for-in'        : 2,                                             // http://eslint.org/docs/rules/guard-for-in
     'no-caller'           : 2,                                                // http://eslint.org/docs/rules/no-caller
     'no-else-return'      : 2,                                           // http://eslint.org/docs/rules/no-else-return
