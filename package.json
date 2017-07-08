@@ -1,20 +1,24 @@
 {
-  "name": "eslint-config-es6plus",
-  "description": "Linting rules for Endemol Shine Tech projects",
-  "version": "1.0.5",
+  "name": "eslint-config-esg",
+  "description": "Lint rules for Endemol Shine Tech projects",
+  "version": "1.0.6",
   "license": "MIT",
   "main": "index.js",
-  "repository": "https://github.com/EndemolShineGroup/eslint-config-es6plus",
   "author": {
     "name": "Endemol Shine Technology",
     "url": "https://github.com/EndemolShineGroup"
   },
   "contributors": [
     "Joe Pietroni <joe.pietroni@endemolshine.com>",
-    "Hassan Khan <hassan.khan@endemolshine.com>"
+    "Hassan Khan <hassan.khan@endemolshine.com>",
+    "Caina Leao <caina.leao@endemolshine.com>"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EndemolShineGroup/eslint-config-esg.git"
+  },
   "peerDependencies": {
-    "babel-eslint": "^7.0",
+    "babel-eslint": "~6.1.0",
     "eslint": "^3.0"
   },
   "dependencies": {
