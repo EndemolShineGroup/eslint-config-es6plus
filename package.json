@@ -18,8 +18,8 @@
     "url": "https://github.com/EndemolShineGroup/eslint-config-esg.git"
   },
   "peerDependencies": {
-    "babel-eslint": "~6.1.0",
-    "eslint": "^3.0"
+    "babel-eslint": "^6.1.0",
+    "eslint": "^3.0.0"
   },
   "dependencies": {
     "eslint-plugin-import": "^2.2.0",
