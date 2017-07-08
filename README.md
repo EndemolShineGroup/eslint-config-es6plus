@@ -1,2 +1,1 @@
-# Endemol Shine Tech Javascript
-
+# Endemol Shine Tech Javascript Style
