@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-esg",
   "description": "Lint rules for Endemol Shine Tech projects",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "license": "MIT",
   "main": "index.js",
   "author": {
