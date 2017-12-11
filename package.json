@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-esg",
   "description": "Lint rules for Endemol Shine Tech projects",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "license": "MIT",
   "main": "index.js",
   "author": {
@@ -17,11 +17,14 @@
     "type": "git",
     "url": "https://github.com/EndemolShineGroup/eslint-config-esg.git"
   },
-  "peerDependencies": {
-    "babel-eslint": "^6.1.0",
-    "eslint": "^3.0.0"
+  "scripts": {
+    "version:patch": "npm version patch --no-git-tag-version",
+    "release:patch": "npm run lint && npm run version:patch",
+    "version:minor": "npm version minor --no-git-tag-version",
+    "release:minor": "npm run lint && npm run version:minor"
   },
-  "dependencies": {
+  "peerDependencies": {
+    "eslint": "^3.0.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-react": "^6.9.0"
   }
